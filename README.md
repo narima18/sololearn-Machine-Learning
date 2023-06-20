@@ -221,6 +221,9 @@ Float rounded to 4 decimal places
 **Sample Input**
 
 0 1 2 1 2
-![img](https://api.sololearn.com/DownloadFile?id=3973)
-Sample Output
+
+**Sample Output**
+
 0.9820
+
+![img](https://api.sololearn.com/DownloadFile?id=3973)
